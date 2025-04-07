@@ -142,9 +142,11 @@ void IRPAIR()
 
 ## OUTPUT
 ## DETECTED
-![alt text](<EX 02 ON iot.jpeg>)
+![image](https://github.com/user-attachments/assets/ad3d2eab-0d1e-450c-837f-a9fda0a3d331)
+
 ## NOT DETECTED
-![alt text](<EX 02 OFF iot.jpeg>)
+![image](https://github.com/user-attachments/assets/1a46bf17-e26a-477c-a70f-b81778150645)
+
 ## Result
 
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
